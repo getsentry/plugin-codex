@@ -1,0 +1,5 @@
+interface:
+  display_name: "Setup Sentry AI Agent Monitoring"
+  short_description: "Setup Sentry AI Agent Monitoring in any project"
+policy:
+  allow_implicit_invocation: false

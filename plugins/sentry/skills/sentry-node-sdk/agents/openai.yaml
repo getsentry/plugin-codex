@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry Node.js / Bun / Deno SDK"
+  short_description: "Full Sentry SDK setup for Node.js, Bun, and Deno"
+policy:
+  allow_implicit_invocation: false

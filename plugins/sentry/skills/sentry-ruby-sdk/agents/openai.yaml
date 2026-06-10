@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry Ruby SDK"
+  short_description: "Full Sentry SDK setup for Ruby"
+policy:
+  allow_implicit_invocation: false

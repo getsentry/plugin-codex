@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry OTel Exporter Setup"
+  short_description: "Configure the OpenTelemetry Collector with Sentry Exporter for multi-project..."
+policy:
+  allow_implicit_invocation: false

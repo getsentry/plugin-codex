@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry PHP SDK"
+  short_description: "Full Sentry SDK setup for PHP"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry Instrumentation Guide: When to Reach for What"
+  short_description: "Decide which Sentry signal to reach for when instrumenting code — error,..."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry Cloudflare SDK"
+  short_description: "Full Sentry SDK setup for Cloudflare Workers and Pages"
+policy:
+  allow_implicit_invocation: false

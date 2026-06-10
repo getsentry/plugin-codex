@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry .NET SDK"
+  short_description: "Full Sentry SDK setup for .NET"
+policy:
+  allow_implicit_invocation: false

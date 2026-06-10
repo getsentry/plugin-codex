@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry Code Review"
+  short_description: "Analyze and resolve Sentry comments on GitHub Pull Requests"
+policy:
+  allow_implicit_invocation: false

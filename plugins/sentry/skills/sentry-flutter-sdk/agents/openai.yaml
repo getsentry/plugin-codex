@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry Flutter SDK"
+  short_description: "Full Sentry SDK setup for Flutter and Dart"
+policy:
+  allow_implicit_invocation: false

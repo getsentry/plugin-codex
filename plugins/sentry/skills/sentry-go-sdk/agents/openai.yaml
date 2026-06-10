@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry Go SDK"
+  short_description: "Full Sentry SDK setup for Go"
+policy:
+  allow_implicit_invocation: false

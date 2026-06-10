@@ -1,0 +1,5 @@
+interface:
+  display_name: "Create a Sentry SDK Skill Bundle"
+  short_description: "Create a complete Sentry SDK skill bundle for any platform"
+policy:
+  allow_implicit_invocation: false

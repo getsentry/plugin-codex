@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry JavaScript SDK Upgrade"
+  short_description: "Upgrade the Sentry JavaScript SDK across major versions"
+policy:
+  allow_implicit_invocation: false

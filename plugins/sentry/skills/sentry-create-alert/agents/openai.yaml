@@ -1,0 +1,5 @@
+interface:
+  display_name: "Create Sentry Alert"
+  short_description: "Create Sentry alerts using the workflow engine API"
+policy:
+  allow_implicit_invocation: false
