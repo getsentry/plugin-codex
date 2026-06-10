@@ -7,7 +7,7 @@
     "url": "https://sentry.io"
   },
   "homepage": "https://sentry.io",
-  "repository": "https://github.com/getsentry/sentry-for-ai",
+  "repository": "https://github.com/getsentry/plugin-codex",
   "license": "MIT",
   "keywords": ["sentry", "debugging", "monitoring", "error-tracking"],
   "skills": "./skills/",
