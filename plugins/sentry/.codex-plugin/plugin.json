@@ -28,6 +28,7 @@
       "Fix the recent Sentry issues"
     ],
     "brandColor": "#533371",
+    "composerIcon": "./assets/logo.svg",
     "logo": "./assets/logo.svg"
   }
 }
