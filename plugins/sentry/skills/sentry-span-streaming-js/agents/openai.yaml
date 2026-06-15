@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry Span Streaming Migration (JavaScript)"
+  short_description: "Migrate JavaScript SDK to Sentry span streaming (span-first trace lifecycle)"
+policy:
+  allow_implicit_invocation: false
