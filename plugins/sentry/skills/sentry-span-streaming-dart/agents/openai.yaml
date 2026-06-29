@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry Span Streaming Migration (Dart/Flutter)"
+  short_description: "Migrate Dart/Flutter SDK to Sentry span streaming (span-first trace lifecycle)"
+policy:
+  allow_implicit_invocation: false
