@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentry Snapshots for Apple/Cocoa"
+  short_description: "Full Sentry Snapshots setup for Apple/Cocoa projects"
+policy:
+  allow_implicit_invocation: false
