@@ -1,5 +1,0 @@
-interface:
-  display_name: "Sentry Next.js SDK"
-  short_description: "Full Sentry SDK setup for Next.js"
-policy:
-  allow_implicit_invocation: false

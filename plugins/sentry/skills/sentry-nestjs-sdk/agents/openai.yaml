@@ -1,5 +1,0 @@
-interface:
-  display_name: "Sentry NestJS SDK"
-  short_description: "Full Sentry SDK setup for NestJS"
-policy:
-  allow_implicit_invocation: false

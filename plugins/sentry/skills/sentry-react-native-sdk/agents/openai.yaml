@@ -1,5 +1,0 @@
-interface:
-  display_name: "Sentry React Native SDK"
-  short_description: "Full Sentry SDK setup for React Native and Expo"
-policy:
-  allow_implicit_invocation: false

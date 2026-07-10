@@ -1,5 +1,0 @@
-interface:
-  display_name: "Sentry Browser SDK"
-  short_description: "Full Sentry SDK setup for browser JavaScript"
-policy:
-  allow_implicit_invocation: false

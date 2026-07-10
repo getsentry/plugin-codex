@@ -1,5 +1,0 @@
-interface:
-  display_name: "Sentry Android SDK"
-  short_description: "Full Sentry SDK setup for Android"
-policy:
-  allow_implicit_invocation: false

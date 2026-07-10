@@ -1,5 +1,0 @@
-interface:
-  display_name: "Instrument Sentry Logging"
-  short_description: "Instruments structured Sentry logs in a new or existing application"
-policy:
-  allow_implicit_invocation: false

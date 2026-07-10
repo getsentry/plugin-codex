@@ -1,5 +1,0 @@
-interface:
-  display_name: "Fix Sentry Issues"
-  short_description: "Find and fix issues from Sentry using MCP"
-policy:
-  allow_implicit_invocation: false
