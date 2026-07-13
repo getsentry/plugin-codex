@@ -1,5 +1,0 @@
-interface:
-  display_name: "Sentry Code Review"
-  short_description: "Review a project's PRs to check for issues detected in code review by Seer..."
-policy:
-  allow_implicit_invocation: false
